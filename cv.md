@@ -14,3 +14,7 @@ Anastasiya Butovskaya
 
 *My goal is to develop new skills and gain new knowledge.*
 *I have no experience in this area, but there is a great desire to learn new things and work on myself.*
+
+## Code
+
+**`function(12);`**
