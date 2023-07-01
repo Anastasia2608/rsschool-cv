@@ -18,3 +18,12 @@ Anastasiya Butovskaya
 ## Code
 
 **`function(12);`**
+
+## Education
+
+1. Bobruisk State Motor Transport College
+2. Belarusian State Economic University
+3. Education in the art studio
+4. Nail courses
+5. Foreign language courses
+6. Training as a tourism manager (including seminars, trainings, promotional tours in different countries)
