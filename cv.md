@@ -27,3 +27,7 @@ Anastasiya Butovskaya
 4. Nail courses
 5. Foreign language courses
 6. Training as a tourism manager (including seminars, trainings, promotional tours in different countries)
+
+## English level
+
+Pre-Intermediate
